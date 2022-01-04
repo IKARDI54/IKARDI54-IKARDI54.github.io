@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es-es">
+    <title type="text">TLMSGI03Tarea3</title>
+    <id>/Users/ika/Documents/DAWE/LenguajeDeMarcas/tarea3/Tarea3/index.html</id>
+    <subtitle>canal ATOM para la tarea 3 de Laenguaje de Marcas</subtitle>
+    <link rel="self" href="/Users/ika/Documents/DAWE/LenguajeDeMarcas/tarea3/Tarea3/rss/Tema3.atom" />
+    <link rel="alternate" href="/Users/ika/Documents/DAWE/LenguajeDeMarcas/tarea3/Tarea3/index.html" />
+    <updated>2022-01-05T23:20:00Z</updated>
+    <author>
+      <name>Israel Sanchez</name>
+      <email>admin@pubmed.com</email>
+    </author>
+    <entry>
+      <title>COVID-19</title>
+      <id>https://pubmed.ncbi.nlm.nih.gov/32150360-features-evaluation-and-treatment-coronavirus-covid-19/</id>
+      <link rel="alternate" type="text/html" href="https://pubmed.ncbi.nlm.nih.gov/32150360-features-evaluation-and-treatment-coronavirus-covid-19/" />
+      <updated>2020-03-07T08:10:00Z</updated>
+      <author>
+        <name>Marco Cascella</name>
+        <email>mcascella@fpascale.it</email>
+      </author>
+      <summary>Características, evaluación y tratamiento del coronavirus (COVID-19)</summary>
+    </entry>
+    <entry>
+      <title>Subunidad reguladora de la levadura</title>
+      <id>https://pubmed.ncbi.nlm.nih.gov/32160528-discovery-of-a-regulatory-subunit-of-the-yeast-fatty-acid-synthase/</id>
+      <link rel="alternate" type="text/html" href="https://pubmed.ncbi.nlm.nih.gov/32160528-discovery-of-a-regulatory-subunit-of-the-yeast-fatty-acid-synthase/" />
+      <updated>2020-02-03T10:30:00Z</updated>
+      <author>
+        <name>Kashish Singh</name>
+        <email>ksingh@mountsinai.com</email>
+      </author>
+      <summary>Descubrimiento de una subunidad reguladora de la levadura sintasa de ácidos grasos</summary>
+    </entry>
+</feed>

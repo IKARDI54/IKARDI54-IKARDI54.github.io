@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LMSGI03Tarea3</title>
+    <link>/Users/ika/Documents/DAWE/LenguajeDeMarcas/tarea3/Tarea3/index.html</link>
+    <description>Canal para la tarea 3 de Lenguaje de Marcas</description>
+    <language>en</language>
+    <item>
+      <title>Características, evaluación y tratamiento del coronavirus (COVID-19)</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/32150360/</link>
+      <description></description>
+      <guid>https://pubmed.ncbi.nlm.nih.gov/32150360/</guid>
+    </item>
+    <item>
+      <title>Descubrimiento de una subunidad reguladora de la levadura sintasa de ácidos grasos</title>
+      <link>https://pubmed.ncbi.nlm.nih.gov/32160528/</link>
+      <description></description>
+      <guid>https://pubmed.ncbi.nlm.nih.gov/32160528/</guid>
+    </item>
+  </channel>
+</rss>
